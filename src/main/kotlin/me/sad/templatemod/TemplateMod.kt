@@ -15,7 +15,7 @@ class TemplateMod {
     }
 
     companion object {
-        const val MOD_ID = "TemplateMod"
+        const val MOD_ID = "templatemod"
         @get:JvmName("getLogger")
         @JvmStatic
         val LOGGER = LogManager.getLogger(MOD_ID)!!
